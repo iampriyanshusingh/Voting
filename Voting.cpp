@@ -67,19 +67,19 @@ public:
 
         // if (bjpVotes > congressVotes && bjpVotes > aapVotes)
         // {
-        //     std::cout << "BJP is the winner!\n";
+        //     cout << "BJP is the winner!\n";
         // }
         // else if (congressVotes > bjpVotes && congressVotes > aapVotes)
         // {
-        //     std::cout << "Congress is the winner!\n";
+        //     cout << "Congress is the winner!\n";
         // }
         // else if (aapVotes > bjpVotes && aapVotes > congressVotes)
         // {
-        //     std::cout << "AAP is the winner!\n";
+        //     cout << "AAP is the winner!\n";
         // }
         // else
         // {
-        //     std::cout << "It's a tie!\n";
+        //     cout << "It's a tie!\n";
         // }
     }
 };
